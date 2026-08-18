@@ -1,6 +1,6 @@
 <h1 align="left">Greetings!</h1>
 
-<img align="right" width="220" src="https://skillicons.dev/icons?i=godot" />
+<img align="right" width="220" src="https://i.pinimg.com/originals/5c/6b/79/5c6b7996917095d6b5169ca8b454ffdf.gif" />
 
 ### Meet da Programma
 
@@ -14,29 +14,9 @@ Email: mintyycreations@gmail.com
 
 ### Languages and Tools
 
-**Luau**
-<br>
-<img src="https://skillicons.dev/icons?i=lua" height="40" alt="Luau"/>
-
-**Java / Kotlin**
-<br>
-<img src="https://skillicons.dev/icons?i=java,kotlin" height="40" alt="Java, Kotlin"/>
-
-**Godot / Unity**
-<br>
-<img src="https://skillicons.dev/icons?i=godot,unity" height="40" alt="Godot, Unity"/>
-
-**Rust / C++**
-<br>
-<img src="https://skillicons.dev/icons?i=rust,cpp" height="40" alt="Rust, C++"/>
-
-**Dart**
-<br>
-<img src="https://skillicons.dev/icons?i=dart" height="40" alt="Dart"/>
-
-**And more**
-<br>
-<img src="https://skillicons.dev/icons?i=js,py,html,css,git" height="40" alt="More"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,java,kotlin,godot,unity,rust,cpp,dart,js,py,html,css,git" height="50"/>
+</p>
 
 ---
 
