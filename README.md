@@ -21,5 +21,5 @@ Email: mintyycreations@gmail.com
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blueviolet" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MintyyWorks&style=flat-square&color=blueviolet" alt="profile views"/>
 </p>
