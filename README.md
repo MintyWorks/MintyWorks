@@ -31,5 +31,5 @@ If you wanna commission something or just talk about programming, feel free to j
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MintyyWorks&style=flat-square&color=blueviolet" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MintyyWorks&style=flat-square&color=blueviolet"/>
 </p>
