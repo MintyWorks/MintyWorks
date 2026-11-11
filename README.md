@@ -57,13 +57,11 @@ I mainly get recognized as a [![Roblox Developer](https://img.shields.io/badge/R
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MintyWorks&show_icons=true&theme=merko&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=MintyWorks&show_icons=true&theme=merko&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MintyWorks&layout=compact&theme=merko&hide_border=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MintyWorks&layout=compact&theme=merko&hide_border=true" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=MintyWorks&theme=merko&hide_border=true" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MintyWorks&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
