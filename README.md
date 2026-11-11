@@ -11,7 +11,7 @@ I'm a developer who enjoys building and creating things, experimenting with diff
 I mainly get recognized as a [![Roblox Developer](https://img.shields.io/badge/ROBLOX_DEV-555?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/3637569571/profile)
 
 [![Commissions](https://img.shields.io/badge/Commissions-OPEN-2ea043?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/MintyWorks)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=github&logoColor=white)](https://mintyways.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=github&logoColor=white)](https://discord.gg/svN3cPAqYb)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=435&lines=Plugins;Mods;Scripts;Random+Programs;Custom+Projects;Commissions+Open!" alt="Typing SVG" />
 
