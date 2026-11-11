@@ -8,7 +8,7 @@
 
 I'm a developer who enjoys building and creating things, experimenting with different technologies and languages, and occasionally taking commissions (Open btw 👀👀).
 
-I mainly get recognized as a ![Roblox Developer](https://img.shields.io/badge/ROBLOX_DEV-555?style=for-the-badge&logo=roblox&logoColor=white)
+I mainly get recognized as a [![Roblox Developer](https://img.shields.io/badge/ROBLOX_DEV-555?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/3637569571/profile)
 
 [![Commissions](https://img.shields.io/badge/Commissions-OPEN-2ea043?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/MintyWorks)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-238636?style=for-the-badge&logo=github&logoColor=white)](https://mintyways.github.io/)
@@ -75,8 +75,9 @@ Interested in commissioning a project, collaborating, or just talking about prog
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-238636?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/svN3cPAqYb)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mintyycreations@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Join_Community!-238636?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/svN3cPAqYb)
+[![Email](https://img.shields.io/badge/Email-Contact_Me!-238636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mintyycreations@gmail.com)
+[![Roblox](https://img.shields.io/badge/Roblox-Follow_Me!-238636?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/3637569571/profile)
 
 </div>
 
