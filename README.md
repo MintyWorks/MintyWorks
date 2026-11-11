@@ -1,8 +1,8 @@
  <div align="center">
 
-<img src="https://i.pinimg.com/originals/5c/6b/79/5c6b7996917095d6b5169ca8b454ffdf.gif" width="180" align="right" />
-
 # Greetings! :D
+
+<img src="https://i.pinimg.com/originals/5c/6b/79/5c6b7996917095d6b5169ca8b454ffdf.gif" width="200" align="right" />
 
 ### Meet da Programma!
 
