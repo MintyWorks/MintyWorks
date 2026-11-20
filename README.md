@@ -85,6 +85,4 @@ Interested in commissioning a project, collaborating, or just talking about prog
 
 <img src="https://hits.sh/github.com/MintyWorks.svg?style=flat-square&color=238636&label=Profile%20Views" alt="Profile views" />
 
-**Thanks for stopping by!**
-
 </div>
